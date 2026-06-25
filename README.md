@@ -1,11 +1,9 @@
-# Projects
-A collection of projects completed during my internship
+# Internship Projects Repository
 
-# Internship Repository
-
-This repository contains all the project files, source code, and documentation from my internship.
+A comprehensive collection of technical projects, source code, and documentation completed during my internship.
 
 ## 📌 Overview
+This repository serves as a portfolio of my work.
 * **Role:** Data Science Intern
 * **Timeline:** May, 2026 – August, 2026
 
