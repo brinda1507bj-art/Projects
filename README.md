@@ -18,4 +18,5 @@ This repository serves as a portfolio of my work.
 
 * ## 🛠️ Tech Stack
 * **Languages:** Python
-* **Frameworks/Libraries:** NumPy, Pandas, SeaBorn, Matplotlib, LabelEncoder, StandardScaler, TrainTestSplit, LogisticRegression, DecisionTree, RandomForest
+* **Frameworks/Libraries:** NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn
+* **Preprocessing:** LabelEncoder, StandardScaler, Missing value imputation, Capped outliers using IQR method
